@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Zeynep Barut">
-    <title>CS 8 ROCKS.</title>
+    <title>CS 008 Into to Web Design</title>
     <meta name="description" content="A sit map of assignments.">
 
     <style>
