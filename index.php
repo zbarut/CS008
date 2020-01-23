@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Zeynep Barut">
-    <title>CS 008 Into to Web Design</title>
+    <title>Intro to Web Development CS 008</title>
     <meta name="description" content="A sit map of assignments.">
 
     <style>
@@ -39,11 +39,7 @@
     <h2>Zeynep Barut - Site Map</h2>
     <h2>Lab one - Setting up the main index page.</h2>
     <p><a href="testing_page.php">Testing Page</a></p>
-    <p><a href="ADMIN/admin.phpf (x) = 2x
-3 + 15x
-2 + 44x + 39">My Admin Folder</a></p>
-
-
+    <p><a href="ADMIN/admin.php">My Admin Folder</a></p>
 
 </body>
 </html>
