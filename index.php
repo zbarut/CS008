@@ -39,7 +39,9 @@
     <h2>Zeynep Barut - Site Map</h2>
     <h2>Lab one - Setting up the main index page.</h2>
     <p><a href="testing_page.php">Testing Page</a></p>
-    <p><a href="ADMIN/admin.php">My Admin Folder</a></p>
+    <p><a href="ADMIN/admin.phpf (x) = 2x
+3 + 15x
+2 + 44x + 39">My Admin Folder</a></p>
 
 
 
