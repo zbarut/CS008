@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="author" content="Zeynep Barut">
-    <title>Intro to Web Development CS 008</title>
+    <title>Intro to Web Development CS-008</title>
     <meta name="description" content="A sit map of assignments.">
 
     <style>
@@ -40,6 +40,8 @@
     <h2>Lab one - Setting up the main index page.</h2>
     <p><a href="testing_page.php">Testing Page</a></p>
     <p><a href="ADMIN/admin.php">My Admin Folder</a></p>
+
+
 
 </body>
 </html>
