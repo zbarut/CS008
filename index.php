@@ -31,14 +31,14 @@
 </head>
 <body>
     <figure class="figure">
-        <img class="my-image" alt="Zeynep Barut Picture" src="images/picture.JPG">
+        <img class="my-image" alt="Zeynep Barut Picture" src="images/Zeynep-Barut.JPG">
         <figcaption class="my-image-caption">Picture at Niagara Falls.</figcaption>
     </figure>
 
     <h1>CS 008 - <em>Section A</em></h1>
     <h2>Zeynep Barut - Site Map</h2>
     <h2>Lab one - Setting up the main index page.</h2>
-    <p><a href="testing_page.php">Testing Page</a></p>
+    <p><a href="testing-page.php">Testing Page</a></p>
     <p><a href="ADMIN/admin.php">My Admin Folder</a></p>
 
 
