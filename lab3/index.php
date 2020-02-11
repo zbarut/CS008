@@ -9,7 +9,7 @@
     </head>
     <body>
         <nav>
-            <a href="index.php/">Home</a>
+            <a href="index.php">Home</a>
             <a href="diet-options.php">Diets Options</a>
             <a href="meal-plan.php">Meal Plans</a>
             <a href="form.php">Form</a>

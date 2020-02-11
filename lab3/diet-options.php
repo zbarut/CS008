@@ -23,7 +23,7 @@
             Eating protein-rich foods has many advantages, including muscle building, weight loss, and feeling better
             after eating. Consuming lots of protein can be helpful, but eating a balanced diet is an important part of
             maintaining a healthy state. Eating a diet rich in protein will help people lose weight as it can help them
-            avoid eating too much. A high protein diet can help build muscle tightness when combined with exerise.
+            avoid eating too much. A high protein diet can help build muscle tightness when combined with exercise.
             <a href="https://www.medicalnewstoday.com/articles/321522.php" target="_blank"><cite>Source Link.</cite></a>
         </p>
         <h3>High Protein Foods:</h3>
@@ -35,19 +35,49 @@
                 <li>Eggs</li>
             </ol>
 
+        <figure class="figure">
+            <img class="diet-pg-protein-img" alt="Protein" src="images/Protein.jpg">
+            <figcaption class="my-image-caption">Protein Diet</figcaption>
+            <a href="https://www.bbcgoodfood.com/howto/guide/protein-and-carbs-get-balance-right" target="_blank"><cite>Source Link.</cite></a>
+        </figure>
+
         <h2>Keto Diet:</h2>
         <p>
-
-
-            <a href="#" target="_blank"><cite>Source Link.</cite></a>
+            A keto or ketogenic diet is a low-carb, moderate, higher-fat protein diet that can help you more quickly
+            burn fat. It has many benefits for weight loss, safety and efficiency, as shown in more than 50 studies.
+            That's why so many doctors recommend it. A keto diet can be particularly useful for losing excess body fat
+            without hunger and for improving type 2 diabetes.
+            <a href="https://www.dietdoctor.com/low-carb/keto" target="_blank"><cite>Source Link.</cite></a>
         </p>
+        <figure class="figure">
+            <img class="diet-pg-keto-img" alt="What to Eat on Keto Diet" src="images/KetoDiet.jpg">
+            <figcaption class="my-image-caption">What to Eat on Keto Diet</figcaption>
+        </figure>
 
         <h2>Vegan Diet:</h2>
         <p>
-
-
-            <a href="#" target="_blank"><cite>Source Link.</cite></a>
+            The vegan diets include only foods dependent on plants. Evidence has shown that plant-based diets high in
+            vegan or vegetarian foods are associated with lower LDL cholesterol, increased blood glucose and increased
+            blood pressure. People should be pay attention to their nutrients careful when following a vegan diet to get
+            enough of, including vitamin B12, calcium, iron and certain omega-3 fatty acids.
+            <a href="https://foodinsight.org/basics-of-vegan-diet/" target="_blank"><cite>Source Link.</cite></a>
         </p>
+        <h3>Foods That Vegan Should Have:</h3>
+        <ol>
+            <li>Fruits and Veggies</li>
+            <li>Beans and Legumes</li>
+            <li>Nuts, Seeds, and Grains</li>
+            <li>Dairy Alternatives</li>
+            <li>Plant-Based Things and Sweets</li>
+        </ol>
+        <a href="https://chooseveg.com/blog/foods-every-new-vegan-should-have-in-the-kitchen/" target="_blank"><cite>
+                Source Link.</cite></a>
+
+        <figure class="figure">
+            <img class="diet-pg-vegan-img" alt="Plant Base Diet" src="images/Vegan.jpg">
+            <figcaption class="my-image-caption">Plant Base Diet</figcaption>
+        <a href="https://www.cnn.com/2020/02/06/health/vegan-how-to-food-drayer-wellness/index.html" target="_blank"><cite>Source Link.</cite></a>
+        </figure>
 
     </main>
     <footer>

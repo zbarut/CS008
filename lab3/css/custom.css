@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 table, td, th{
@@ -65,3 +66,43 @@ footer{
 .footerBtn:hover{
     background-color: darkorange;
 }
+
+.diet-pg-keto-img{
+    height: 300px;
+}
+.diet-pg-protein-img{
+    height: 300px;
+}
+.diet-pg-vegan-img{
+    height: 350px;
+}
+
+/* Meal Plan Page */
+.mealSection{
+    background-color: rgba(112, 112, 112, 0.18);
+    margin: 2px;
+    padding: 20px;
+    height: 500px;
+}
+.mealSection figure{
+    float: right;
+    overflow: hidden;
+}
+
+.mealSection figure img{
+    width: 400px;
+    height: 400px;
+}
+
+.mealSection a{
+    text-decoration: none;
+    color: black;
+}
+.getRecipeBtn{
+    width: 200px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    background-color: rgba(255, 0, 0, 0.67);
+}
+/* Meal Plan Page */

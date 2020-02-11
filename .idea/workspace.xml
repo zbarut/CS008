@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="814e364b-08c1-4445-abe2-701b7e619903" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/images/KetoDiet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/images/Protein.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/images/Vegan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/images/protein-meal-plan/breakfast.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/images/protein-meal-plan/dinner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/images/protein-meal-plan/lunch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3/diet-options.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/diet-options.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/form.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab3/meal-plan.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/meal-plan.php" afterDir="false" />
     </list>
@@ -61,6 +69,8 @@
       <recent name="C:\Users\FK\PhpstormProjects\cs008\lab 3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FK\PhpstormProjects\cs008\lab3\images\keto-meal-plan" />
+      <recent name="C:\Users\FK\PhpstormProjects\cs008\lab3\images" />
       <recent name="C:\Users\FK\PhpstormProjects\cs008\lab3" />
       <recent name="C:\Users\FK\PhpstormProjects\cs008\lab 3" />
       <recent name="C:\Users\FK\PhpstormProjects\CS008" />
@@ -101,7 +111,7 @@
       <workItem from="1580267579410" duration="9904000" />
       <workItem from="1580782102198" duration="13473000" />
       <workItem from="1581372985257" duration="597000" />
-      <workItem from="1581390416356" duration="22620000" />
+      <workItem from="1581390416356" duration="27930000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Title">
       <created>1579742819587</created>
@@ -138,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581414400230</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding image folders">
+      <created>1581415521577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581415521577</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +165,8 @@
     <MESSAGE value="Changed Title" />
     <MESSAGE value="Testing-page&#10;Zeynep-Barut.JPG" />
     <MESSAGE value="New labs" />
-    <option name="LAST_COMMIT_MESSAGE" value="New labs" />
+    <MESSAGE value="Adding image folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding image folders" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1579504345004">
@@ -171,10 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579505261786" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581414399032">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581415520653">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581414399032" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581415520653" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579505303328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -215,10 +233,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579505379110" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581414402686">
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581415525818">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581414402686" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581415525818" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579745167472">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

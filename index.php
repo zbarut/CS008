@@ -72,6 +72,7 @@
             <section class="supporting-flies">
                 <h3>Supporting files</h3>
                 <p><a href="lab3/css/custom.css">custom.css</a></p>
+                <p><a href="lab3/images/wireframe.PNG">wireframe</a></p>
             </section>
 
             <section class="grader-notes">
