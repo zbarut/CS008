@@ -5,7 +5,7 @@
         <title>Making The World A Better Place</title>
         <meta name="author" content="Zeynep Barut">
         <meta name="description" content="Lab 2 - CS 008 Making the world a better place.">
-        <link type="text/css" rel="stylesheet" href="css/custom.css">
+        <link type="text/css" rel="stylesheet" href="css/custom.css?version=1.0">
     </head>
     <body>
         <nav>

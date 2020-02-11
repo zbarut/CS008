@@ -5,7 +5,7 @@
     <title>Survey</title>
     <meta name="author" content="Zeynep Barut">
     <meta name="description" content="Lab 3 - CS 008 A Website about making the world a better place featuring meal plans and diet options.">
-    <link type="text/css" rel="stylesheet" href="css/custom.css">
+    <link type="text/css" rel="stylesheet" href="css/custom.css?version=1.0">
 </head>
 <body>
     <?php

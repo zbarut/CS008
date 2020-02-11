@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="814e364b-08c1-4445-abe2-701b7e619903" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab3/diet-options.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/diet-options.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab3/meal-plan.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab3/meal-plan.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\FK\PhpstormProjects\cs008\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="83585f16-62c2-4248-95dc-525d0570c78e" name="RUN SERVER" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1We8DAjp3Dfmh4PDSVdQQ0siP7k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab 3" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\FK\PhpstormProjects\cs008\lab 3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\FK\PhpstormProjects\cs008\lab3" />
+      <recent name="C:\Users\FK\PhpstormProjects\cs008\lab 3" />
+      <recent name="C:\Users\FK\PhpstormProjects\CS008" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="814e364b-08c1-4445-abe2-701b7e619903" name="Default Changelist" comment="" />
+      <created>1579498577076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579498577076</updated>
+      <workItem from="1579498578338" duration="3562000" />
+      <workItem from="1579505094808" duration="1238000" />
+      <workItem from="1579742727534" duration="2971000" />
+      <workItem from="1580195917507" duration="1954000" />
+      <workItem from="1580200671741" duration="1002000" />
+      <workItem from="1580267579410" duration="9904000" />
+      <workItem from="1580782102198" duration="13473000" />
+      <workItem from="1581372985257" duration="597000" />
+      <workItem from="1581390416356" duration="22620000" />
+    </task>
+    <task id="LOCAL-00001" summary="Changed Title">
+      <created>1579742819587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579742819587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changed Title">
+      <created>1579744259135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579744259135</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed Title">
+      <created>1579745807477</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579745807477</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Testing-page&#10;Zeynep-Barut.JPG">
+      <created>1580196034752</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580196034752</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New labs">
+      <created>1581414400230</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581414400230</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed Title" />
+    <MESSAGE value="Testing-page&#10;Zeynep-Barut.JPG" />
+    <MESSAGE value="New labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="New labs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1579504345004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1579504345004" />
+    <state x="667" y="111" key="#PHP" timestamp="1579504346793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="111" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1579504346793" />
+    <state x="540" y="176" key="#Servers" timestamp="1579505525292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="176" key="#Servers/0.0.1920.1040@0.0.1920.1040" timestamp="1579505525292" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581398568552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581398568552" />
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579505261786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579505261786" />
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581414399032">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581414399032" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579505303328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579505303328" />
+    <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog" timestamp="1579506124802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="437" width="356" height="166" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579506124802" />
+    <state x="842" y="414" width="260" height="211" key="Github.ShareDialog" timestamp="1579506163458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="414" width="260" height="211" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579506163458" />
+    <state x="791" y="226" key="Github.UntrackedFilesDialog" timestamp="1579506171626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="791" y="226" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579506171626" />
+    <state width="913" height="279" key="GridCell.Tab.0.bottom" timestamp="1581411371977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="913" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581411371977" />
+    <state width="913" height="279" key="GridCell.Tab.0.center" timestamp="1581411371976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="913" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581411371976" />
+    <state width="913" height="279" key="GridCell.Tab.0.left" timestamp="1581411371975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="913" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581411371975" />
+    <state width="913" height="279" key="GridCell.Tab.0.right" timestamp="1581411371976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="913" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581411371976" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1581395977683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581395977683" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1579505379110">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579505379110" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1581414402686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581414402686" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579745167472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579745167472" />
+    <state x="313" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1581390451473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="313" y="327" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581390451473" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581410001767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581410001767" />
+    <state x="149" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1581391980451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="149" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581391980451" />
+  </component>
+</project>
