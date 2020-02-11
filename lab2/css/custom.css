@@ -1,0 +1,14 @@
+body{
+    padding: 50px;
+}
+
+table, td, th{
+    border: 1px black solid;
+}
+
+td, th{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
