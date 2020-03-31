@@ -1,0 +1,136 @@
+@import "home";
+@import "diets-options";
+@import "variables";
+@import "meal-plan";
+@import "form";
+@import "navbar";
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-image: url("../images/background.png");
+  font-family: Arial, sans-serif;
+}
+
+p {
+  text-indent: 50px;
+}
+
+table, td, th {
+  border: 1px black solid;
+}
+
+td, th {
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+li {
+  list-style: none;
+}
+
+
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
+table {
+  border-collapse: collapse;
+  border: 2px solid purple;
+  width: 80%;
+}
+
+td {
+  border: 1px solid black;
+}
+
+th {
+  background-color: rgba(0, 0, 0, 0.91);
+  color: white;
+}
+
+header {
+  margin-top: 90px;
+  background-color: rgba(0, 0, 0, 0.11);
+  padding: 10px;
+}
+
+main {
+  padding: 1px 50px 50px 50px;
+  background-color: rgba(0, 0, 0, 0.11);
+}
+
+
+figure{
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+}
+
+figcaption{
+  color: green;
+  font-family: "Comic Sans MS", sans-serif;
+  font-size: small;
+}
+
+img{
+  max-width: 100%;
+}
+
+.rounded-corners{
+  border-radius: 10px;
+}
+
+.flex-row-center{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.flex-column-center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flexbox-layout{
+  display: flex;
+  flex-direction: column;
+}
+
+.limited-text{
+  max-width: 600px;
+  margin: 0 auto;
+}
+// FOOTER
+
+footer {
+  background-color: rgba(29,9,25,0.24);
+  height: 200px;
+  width: 100%;
+  padding: 20px;
+}
+
+.footerBtn{
+  padding: 5px;
+  margin: 2px;
+  text-decoration: none;
+  width: 100px;
+  background-color: rgba(29, 9, 25, 0.4);
+  list-style-type: none;
+}
+
+.footerBtn a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.footerBtn:hover{
+  background-color: darkorange;
+}
+
+// FOOTER END

@@ -1,0 +1,146 @@
+@import "variables";
+
+@media screen and (min-width: 993px) {
+  nav {
+    width: 100%;
+    height: $nav-height;
+    text-align: center;
+    background-color: $nav-color;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+
+    ol {
+      display: flex;
+      flex-direction: row;
+      justify-content: start;
+
+      li {
+        list-style-type: none;
+      }
+
+      li:nth-child(1) {
+        animation: dropIn 1.7s forwards;
+      }
+
+      li:nth-child(2) {
+        animation: dropIn 1.4s forwards;
+      }
+
+      li:nth-child(3) {
+        animation: dropIn 1s forwards;
+      }
+
+      li:nth-child(4) {
+        animation: dropIn 0.6s forwards;
+      }
+
+      li:nth-child(5) {
+        animation: dropIn 0.2s forwards;
+      }
+    }
+
+    a {
+      display: block;
+      width: 9vw;
+      background-color: $nav-btn-color;
+      text-decoration: none;
+      color: $nav-text-color;
+      font-size: 15px;
+      padding: 15px;
+      margin: 0 5px 0 5px;
+      border-radius: 10px;
+      transition: all 200ms ease-in;
+
+      &:hover {
+        background-color: darkorange;
+        box-shadow: 0 0 5px 1px gray;
+        color: white;
+      }
+    }
+  }
+
+  .closebtn, .openbtn{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .miniNav{
+    width: 100vw;
+    padding: 30px;
+    background-color: $nav-color;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+
+    button{
+      background-color: $nav-btn-color;
+      font-size: 15px;
+      padding: 15px;
+      border-radius: 5px;
+      border: none;
+
+      &:hover{
+        box-shadow: 0 0 5px 1px gray;
+      }
+    }
+  }
+  nav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+
+    a {
+      padding: 10px 0 10px 0;
+      text-decoration: none;
+      font-size: 25px;
+      color: #818181;
+      display: block;
+      transition: 0.3s;
+
+      &:hover {
+        color: #f1f1f1;
+      }
+    }
+
+    .closebtn {
+      display: inline-block;
+      position: absolute;
+      top: 0;
+      right: 25px;
+      font-size: 36px;
+      margin-left: 50px;
+    }
+
+    .openbtn {
+       font-size: 20px;
+       cursor: pointer;
+       background-color: #111;
+       color: white;
+       padding: 10px 15px;
+       border: none;
+
+      &:hover {
+        background-color: #444;
+      }
+     }
+
+  }
+}
+
+@keyframes dropIn {
+  0% {
+    margin-top: -100px;
+  }
+  100% {
+    margin-top: 0;
+  }
+}

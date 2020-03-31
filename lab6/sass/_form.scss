@@ -1,0 +1,51 @@
+@import "variables";
+
+/* FORM PAGE */
+form{
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+  border-radius: 10px;
+  box-shadow: 0 0 5px 3px rgba(0, 0, 0, 0.64);
+  padding: 10px;
+}
+
+label{
+  width: auto;
+  text-align: left;
+}
+
+input[type=text], select{
+  width: 350px;
+  padding: 10px;
+  margin: 6px 0;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+}
+
+input[type=checkbox]:checked + label::before{
+  content: "\2713"; /*Checkmark*/
+  color: white;
+  background: green;
+}
+
+input[type=radio] + label, input[type=radio]{
+  cursor: pointer;
+  height: 2px;
+  width: 2px;
+  font-size: 17px;
+}
+
+input[type=submit]{
+  width: 100%;
+  padding: 10px;
+  font-size: 25px;
+  border-radius: 5px;
+  background-color: #71a9ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, 0.45);
+}
+input[type=submit]:active{
+  background: linear-gradient(45deg, yellowgreen,yellowgreen);
+}
+/* FORM PAGE END */
