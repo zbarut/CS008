@@ -2,144 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="814e364b-08c1-4445-abe2-701b7e619903" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/diet-options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/KetoDiet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/Protein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/Vegan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/junk-vs-healthy-800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/keto-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/keto-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/keto-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/protein-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/protein-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/protein-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/vegan-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/vegan-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/vegan-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/images/wireframe.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/meal-plan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/diet-options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/KetoDiet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/Protein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/Vegan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/junk-vs-healthy-800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/keto-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/keto-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/keto-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/protein-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/protein-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/protein-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/vegan-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/vegan-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/vegan-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/images/wireframe.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/meal-plan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/_diets-options.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/_meal-plan.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab5/sass/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/diet-options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/KetoDiet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/Protein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/Vegan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/junk-vs-healthy-800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/keto-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/keto-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/keto-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/protein-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/protein-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/protein-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/vegan-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/vegan-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/vegan-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/wireframe-lab6.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/images/wireframe.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/meal-plan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/_diets-options.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/_meal-plan.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/sass/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3863.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3864.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3865.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3866.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3867.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3868.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3869.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3870.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3871.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3872.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3873.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3874.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3875.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3876.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/wireframes/IMG_3877.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/css/custom.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/diet-options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/form.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/KetoDiet.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/Protein.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/Vegan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/junk-vs-healthy-800.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/keto-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/keto-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/keto-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/protein-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/protein-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/protein-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/vegan-meal-plan/breakfast.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/vegan-meal-plan/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/vegan-meal-plan/lunch.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/wireframe-lab6.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/images/wireframe.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/meal-plan.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/_diets-options.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/_home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/_meal-plan.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/sass/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/top.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3863.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3864.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3865.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3866.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3867.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3868.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3869.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3870.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3871.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3872.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3873.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3874.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3875.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3876.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/wireframes/IMG_3877.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab7/top.php" beforeDir="false" afterPath="$PROJECT_DIR$/lab7/top.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +113,7 @@
       <workItem from="1583219549372" duration="7825000" />
       <workItem from="1584924320692" duration="900000" />
       <workItem from="1584936046218" duration="20156000" />
-      <workItem from="1585551727454" duration="1392000" />
+      <workItem from="1585551727454" duration="2058000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Title">
       <created>1579742819587</created>
@@ -301,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581420890571</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding image folders">
+      <created>1585616762164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585616762164</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -335,10 +205,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583222818211" />
-    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1581420889544">
+    <state x="585" y="115" key="CommitChangelistDialog2" timestamp="1585616760069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581420889544" />
+    <state x="585" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585616760069" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579505303328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -391,10 +261,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="313" y="327" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585551727831" />
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585616703102">
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585618351389">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585616703102" />
+    <state x="769" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585618351389" />
     <state x="149" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585113468516">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
